@@ -15,11 +15,6 @@ Built during **SunHacks**, CrowdWise demonstrates how AI can help keep people sa
 ### 3️⃣ Extra Features (Ambulance, Alerts, etc.)
 ![Extra Features](https://media.licdn.com/dms/image/v2/D4E22AQGZeZLscZd09g/feedshare-shrink_2048_1536/B4EZjRpJPkGYBU-/0/1755863882646?e=1762387200&v=beta&t=vqoLTT1Cayd3j0nAsd0AivLfOhFv1ubENfeRCoRmq0o)
 
-
-## 🔗 Live Demo
-
-Try it here: [crowd-wise-pi.vercel.app](https://crowd-wise-pi.vercel.app)
-
 ---
 
 ## 🚀 Features
@@ -57,6 +52,9 @@ Hosted on **Vercel**
 
 ---
 
-## 📂 Repository
 
-GitHub: [https://github.com/<your-username>/CrowdWise](https://github.com/<your-username>/CrowdWise)
+## 📧 Contact Information 
+💼 Hitesh Bhor  
+📩 Email: hiteshbhor28@gmail.com  
+🔗 GitHub: https://github.com/Hitesh-Bhor28  
+🚀 LinkedIn: https://www.linkedin.com/in/hitesh-bhor/  
